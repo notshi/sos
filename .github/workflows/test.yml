@@ -23,4 +23,4 @@ jobs:
         uses: gautemo/fetch-api-data-action@1.0.2
         with:
           url: 'http://d-portal.org/dquery?sql=select%20count(aid)%20from%20act'
-          file: 'backup/data.json'
+          file: '../backup/data.json'
