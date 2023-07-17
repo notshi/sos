@@ -1,3 +1,3 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The goal is to turn data into information, and information into insight.”— Carly Fiorina❞</i>
+<i>❝“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
