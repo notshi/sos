@@ -1,3 +1,3 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
+<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
