@@ -1,3 +1,3 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Make everything as simple as possible, but not simpler.”— Albert Einstein   ❞</i>
+<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
