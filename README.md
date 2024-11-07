@@ -1,3 +1,3 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
+<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
