@@ -1,3 +1,3 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.❞</i>
+<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
 <!--ENDS_HERE_QUOTE_README-->
